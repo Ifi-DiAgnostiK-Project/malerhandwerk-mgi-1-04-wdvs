@@ -239,7 +239,7 @@ Es soll berechnet werden, wie viel Kleber/Armierungsmörtel und Strukturputz K 2
 <br> <br>
 <center>
 
-![Hausberechnung](assets/images/haus_klimaqualitaet.jpg "[_Quelle: Designed bey Freepik, kjpargeter_](https://de.freepik.com/fotos-kostenlos/im-modernen-stil-haus-im-bau_997935.htm#fromView=keyword&page=2&position=46&uuid=e3d1e428-80f1-4fcc-b9e4-1cd4e3b5de48&query=Waermedaemmung)")<!-- style="max-width: 550px; width: 100%" -->
+![3D-Visualisierung eines modernen Hauses im Bau mit Energieeffizienz-Skala, Bauplänen und Laptop im Hintergrund.](assets/images/haus_klimaqualitaet.jpg "Modernes Haus im Bau als 3D-Visualisierung mit Bauplänen, Laptop und Energieeffizienz-Skala. Bild von [kjpargeter via Magnific](https://www.magnific.com/de/fotos-kostenlos/im-modernen-stil-haus-im-bau_997935.htm), kostenloses Foto.")<!-- style="max-width: 550px; width: 100%" -->
 
 </center>
 
@@ -399,7 +399,7 @@ data-solution-button="off"
 </div>
 <div class="flex-child">
 
-![Painter](assets/images/maler_mini_blau.jpg "[_Quelle: Pixabay, Alexas_Fotos_](https://pixabay.com/de/illustrations/maler-streichen-arbeit-figur-1162563/)")<!-- style="max-width: 350px; width: 100%" -->
+![Malerfigur in weißem Overall hält einen grünen Farbroller und einen Farbeimer vor blau gestrichenem Hintergrund.](assets/images/maler_mini_blau.jpg "Malerfigur mit Farbroller und Farbeimer vor blauem Farbhintergrund. Bild von [Alexas_Fotos via Pixabay](https://pixabay.com/de/illustrations/maler-streichen-arbeit-figur-1162563/), Pixabay Content License, veröffentlicht am 28. Januar 2016.")<!-- style="max-width: 350px; width: 100%" -->
 
 
 </div>
@@ -433,7 +433,7 @@ data-solution-button="off"
 <br>
 <center>
 
-![Fragezeichen](assets/images/question_maennl.jpg "[_Quelle: Pixabay, Peggy+Marco_](https://pixabay.com/photos/question-question-mark-help-2309042/)")<!-- style="max-width: 300px; width: 100%" -->
+![Rotes Fragezeichen auf weißem Hintergrund als Symbol für Fragen, Hilfe oder Unsicherheit.](assets/images/question_maennl.jpg "Rotes Fragezeichen als Symbol für Fragen und Hilfestellung. Bild von [Peggy_Marco via Pixabay](https://pixabay.com/photos/question-question-mark-help-2309042/), Pixabay Content License, veröffentlicht am 13. Mai 2017.")<!-- style="max-width: 300px; width: 100%" -->
 
 </center>
 
@@ -463,7 +463,7 @@ data-solution-button="off"
 </div>
 <div class="flex-child">
 
-![Maler](assets/images/maler_gray.jpg "[_Quelle: Pixabay, jbooba_](https://pixabay.com/photos/man-painter-painting-worker-brush-7469738/)")<!-- style="max-width: 300px; width: 100%" -->
+![Schwarz-Weiß-Foto eines Malers auf einer Leiter, der mit einer Farbrolle eine Wand streicht.](assets/images/maler_gray.jpg "Maler beim Streichen einer Wand mit Farbrolle und Farbeimer. Bild von [jbooba via Pixabay](https://pixabay.com/photos/man-painter-painting-worker-brush-7469738/), Pixabay Content License, veröffentlicht am 23. September 2022.")<!-- style="max-width: 300px; width: 100%" -->
 
 
 </div>
@@ -497,10 +497,10 @@ data-solution-button="off"
 <br>
 <center>
 
-![Malerwerkzeug](assets/images/maler_utensilien.jpg "[_Quelle: Pixabay, DoroLucia_](https://pixabay.com/de/photos/farbrolle-maler-streichen-lackieren-722477/)")<!-- style="max-width: 500px; width: 100%" -->
+![Grüne Farbrolle mit Farbe, die zum Streichen oder Lackieren verwendet wird.](assets/images/maler_utensilien.jpg "Farbrolle für Malerarbeiten, Streichen und Lackieren. Bild von [DoroLucia via Pixabay](https://pixabay.com/de/photos/farbrolle-maler-streichen-lackieren-722477/), Pixabay Content License, veröffentlicht am 15. April 2015.")<!-- style="max-width: 500px; width: 100%" -->
 
 </center>
 
 ## Geschafft 🎉
 
-![Jubel](assets/images/colorfull_jumping.jpg "_Quelle: Pixabay, geralt_")
+![Bunte Silhouetten mehrerer springender Menschen vor weißem Hintergrund als Symbol für Freude, Spaß und Lebensfreude.](assets/images/colorfull_jumping.jpg "Farbige Silhouetten springender Menschen als Ausdruck von Freude und Spaß. Bild von [geralt via Pixabay](https://pixabay.com/de/illustrations/freude-springen-luftsprung-spa%C3%9F-3940425/), Pixabay Content License, veröffentlicht am 19. Januar 2019.")
